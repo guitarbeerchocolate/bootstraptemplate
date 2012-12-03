@@ -20,7 +20,8 @@
 			&lt;script src="application/jquery.js"&gt;&lt;/script&gt;
 		</pre>
 	</li>
-	<li>Go code!</li>
+	<li>Use the folder called ico for putting the application icon files in.</li>
+	<li>Use the folder called lib for putting jquery and other external library based functionality in.</li>
 </ol>
 </html>
 touch README.md
